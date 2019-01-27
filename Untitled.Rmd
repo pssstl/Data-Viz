@@ -2,7 +2,11 @@
 title: "Data Visualizations"
 author: "Ting-fen Lin"
 date: "1/28/2019"
-output: ioslides_presentation
+output: 
+  ioslides_presentation:
+    incremental: yes
+  slidy_presentation:
+    incremental: yes
 ---
 
 ```{r setup, include=FALSE}
