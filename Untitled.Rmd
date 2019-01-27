@@ -13,11 +13,10 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## University of Oregon Student Mental Health Data
+## Student Mental Health Data
+![](national.png)
+![](uo.png)
 
-![](data viz 1.png)
-
-(UCC Initial Assessment Fall 2017-Winter 2018)
 
 ## An Evaluation of Texture Manipulations to Increase Swallowing
 
