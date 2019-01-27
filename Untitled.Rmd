@@ -1,0 +1,22 @@
+---
+title: "Data Visualizations"
+author: "Ting-fen Lin"
+date: "1/28/2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## University of Oregon Student Mental Health Data
+
+![](data viz 1.png)
+
+(UCC Initial Assessment Fall 2017-Winter 2018)
+
+## An Evaluation of Texture Manipulations to Increase Swallowing
+
+![](DATA VIZ 2.png)
+(Kadey, Piazza, Rivas, & Zeleny, 2013)
+
